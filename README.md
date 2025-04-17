@@ -1,4 +1,4 @@
-# Spring Boot Practice 🧩
+# Spring Boot Portfolio 🧩
 
 Spring Boot를 적응하기 위한 토이 프로젝트 입니다.
 
